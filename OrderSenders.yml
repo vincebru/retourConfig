@@ -7,7 +7,7 @@ order_senders:
   return_pattern: ""
   validation_url: ""
 - id_order_sender: "9005"
-  name: "cube FR"
+  name: ""
   order_pattern: ""
   shipping_pattern: ""
   return_pattern: ""
