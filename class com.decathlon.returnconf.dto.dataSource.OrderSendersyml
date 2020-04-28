@@ -1,0 +1,8 @@
+---
+order_senders:
+- id_order_sender: "9003"
+  name: "cube FR"
+  order_pattern: ""
+  shipping_pattern: ""
+  return_pattern: ""
+  validation_url: ""
