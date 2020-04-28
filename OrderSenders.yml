@@ -1,6 +1,6 @@
 ---
 order_senders:
-- id_order_sender: "9003"
+- id_order_sender: "9004"
   name: "cube FR"
   order_pattern: ""
   shipping_pattern: ""
