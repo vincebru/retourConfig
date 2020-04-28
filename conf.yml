@@ -1,0 +1,10 @@
+---
+short_orders_sender_map:
+  9003: "cube FR"
+order_senders_map:
+- id_order_sender: "9003"
+  name: "cube FR"
+  order_pattern: ""
+  shipping_pattern: ""
+  return_pattern: ""
+  validation_url: ""
